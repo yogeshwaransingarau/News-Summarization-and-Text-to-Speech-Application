@@ -35,29 +35,32 @@ The server runs at:
 streamlit run app_streamlit.py
 ```
 
-🚀 Usage Guide
-
 🌟 Using the Streamlit App
-1️⃣ Open Streamlit UI in your browser.
-2️⃣ Enter a company name (e.g., Google).
-3️⃣ Click "Analyze Sentiment" to fetch news and perform analysis.
-4️⃣ View:
 
-✅ Sentiment Summary (Positive, Negative, Neutral).
-✅ Extracted Key Topics.
-✅ Comparative Sentiment Analysis.
-✅ Hindi-translated summary. 5️⃣ Click "Play Audio" to listen to the Hindi summary.
 
+- 1️⃣ Open Streamlit UI in your browser.
+- 2️⃣ Enter a company name (e.g., Google).
+- 3️⃣ Click "Analyze Sentiment" to fetch news and perform analysis.
+- 4️⃣ View:
+  
+- ✅ Sentiment Summary (Positive, Negative, Neutral).
+- ✅ Extracted Key Topics.
+- ✅ Comparative Sentiment Analysis.
+- ✅ Hindi-translated summary. 5️⃣ Click "Play Audio" to listen to the Hindi summary.
+  
+---
 📌 Expected Output
 
 ✅ JSON Response with:
 
-Company News Summary
-Sentiment Analysis
-Key Topics
-Comparative Sentiment Trends
-Hindi-translated summary
-Downloadable Hindi Audio
-✅ Streamlit UI for interactive usage.
+- Company News Summary
+- Sentiment Analysis
+- Key Topics
+- Comparative Sentiment Trends
+- Downloadable Hindi Audio
+- ✅ Streamlit UI for interactive usage.
+
+  
+
 
 
