@@ -1,0 +1,9 @@
+Flask
+Flask-Cors
+requests
+beautifulsoup4
+textblob
+langdetect
+googletrans==4.0.0-rc1
+gtts
+streamlit
